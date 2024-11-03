@@ -36,7 +36,7 @@ PHP: 7.4.9
 Docker: 27.0.3
 
 ##ER図
-/Users/higasa/coachtech/mogitate/src/.dio
+/Users/higasa/coachtech/mogitate/src/public/images/ER図.png
 
 ##URL
 開発環境:http://localhost
